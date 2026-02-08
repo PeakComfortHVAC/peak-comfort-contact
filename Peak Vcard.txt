@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Comfort;Peak;;;
+FN:Peak Comfort
+ORG:Peak Comfort HVAC
+TITLE:Main
+TEL;TYPE=WORK,VOICE:+1-613-801-6480
+TEL;TYPE=CELL:+1-613-801-6480
+EMAIL:info@peakcomfort
+URL:https://peakcomfort.ca/
+ADR;TYPE=WORK:;;Ottawa;ON;;Canada
+NOTE:Code-true HVAC. Clean installs. No upsell.
+END:VCARD
